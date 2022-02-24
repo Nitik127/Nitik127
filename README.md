@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/nitik nayyar" target="blank"><img src="https://img.shields.io/twitter/follow/nitik nayyar?logo=twitter&style=for-the-badge" alt="nitik nayyar" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce App using Angular**
+- 🔭 I’m currently working in **Profinch Solutions Pvt.Ltd.**
 
 - 🌱 I’m currently learning **Angular**
 
